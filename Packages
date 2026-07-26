@@ -1,0 +1,12 @@
+Package: arif
+Version: 1.0
+Architecture: all
+Maintainer: Arif
+Depends: nmap
+Filename: ./arif.deb
+Size: 1980
+MD5sum: ce164d676f81265a546127f8b04e6d9c
+SHA1: b621adb32ffd905abc6db6b8729dc070e56693db
+SHA256: 512db3e17f8c9d2b4c3949ed75487a3cd08d1a0ab0d4149eb239787f8cf82a19
+Description: ARIF WIFI MANAGER
+
